@@ -1,0 +1,45 @@
+.btn-rounded {
+  background-color: #15c4ff;
+  color: #fff;
+}
+
+.navbar {
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
+}
+
+#menu {
+  background-color: #fff;
+}
+
+.navbar-nav {
+  margin-left: 400px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.navbar a{
+  color: #ff6400 !important;
+}
+
+.navbar-light {
+  color: #fff
+}
+
+.navbar-brand {
+  margin-left: 70px;
+}
+
+.about-text {
+  color: #ff6400;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 40px;
+  font-family: 'Comfortaa', cursive;
+}
+
+/* FOOTER */
+.footer {
+  margin-top: 40px;
+  padding: 100px 0 70px;
+  background-color: #141212;
+}

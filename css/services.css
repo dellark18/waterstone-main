@@ -1,0 +1,77 @@
+.btn-rounded {
+  background-color: #15c4ff;
+  color: #fff;
+}
+
+.navbar {
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
+}
+
+#menu {
+  background-color: #fff;
+}
+
+.navbar-nav {
+  margin-left: 400px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.navbar a{
+  color: #ff6400 !important;
+}
+
+.navbar-light {
+  color: #fff
+}
+
+.navbar-brand {
+  margin-left: 70px;
+}
+
+.about-text {
+  color: #ff6400;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 40px;
+  font-family: 'Comfortaa', cursive;
+}
+
+/* BODY */
+.service-1 {
+  background-color: #f2bf5e;
+  padding: 30px 30px 10px;
+}
+.service-2 {
+  background-color: #ff6161;
+  padding: 30px 30px 10px;
+}
+.service-3 {
+  background-color: #536eb7;
+  padding: 30px 30px 10px;
+}
+.service-4 {
+  background-color: #75cba8;
+  padding: 30px 30px 10px;
+}
+.service-5 {
+  background-color: #ef3ff6;
+  padding: 30px 30px 10px;
+}
+.service-6 {
+  background-color: #c9a940;
+  padding: 30px 30px 10px;
+}
+
+/* FOOTER */
+.footer {
+  margin-top: 40px;
+  padding: 100px 0 70px;
+  background-color: #141212;
+}
+
+@media (max-width: 992px) {
+  .service-image {
+    display: none;
+  }
+}

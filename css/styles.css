@@ -1,0 +1,135 @@
+.btn-rounded {
+  background-color: #15c4ff;
+  color: #fff;
+}
+
+.btn-rounded:hover {
+  background-color: #ff6400;
+}
+
+.navbar {
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
+}
+
+#menu {
+  background-color: #fff;
+}
+
+.navbar-nav {
+  margin-left: 400px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.navbar a{
+  color: #ff6400 !important;
+}
+
+.navbar-light {
+  color: #fff
+}
+
+.navbar-brand {
+  margin-left: 70px;
+}
+
+/* ABOUT US */
+.about-text {
+  color: #ff6400;
+  padding-top: 30px;
+  font-size: 40px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.btn-primary:hover {
+  background-color: #ff6400;
+}
+
+.about-section {
+  background-color: #FAFAFA;
+  padding-bottom: 30px;
+}
+
+
+/* OUR STORY */
+.fa-sty1, .fa-sty2, .fa-sty3{
+  margin-top: 35px;
+}
+
+.our-story {
+  padding-bottom: 40px;
+}
+
+.fa-col1 {
+  color: #15c4ff;
+}
+.fa-col2 {
+  color: #75cba8;
+}
+.fa-col3 {
+  color: #ff6400;
+}
+
+/* SERVICES */
+.social-box {
+  margin-top: 40px;
+}
+
+.card1 {
+  background-color: #f2bf5e;
+  padding: 50px;
+}
+.card2 {
+  background-color: #ff6161;
+  padding: 50px;
+}
+.card3 {
+  background-color: #536eb7;
+  padding: 50px;
+}
+.card4 {
+  background-color: #75cba8;
+  padding: 50px;
+}
+.card5 {
+  background-color: #efeffc;
+  padding: 50px;
+}
+.card6 {
+  background-color: #c9a940;
+  padding: 50px;
+}
+.card-text {
+  color: #fff;
+}
+
+.services {
+  background-color: #3dceff;
+  padding-bottom: 40px;
+}
+
+/* TESTIMONIALS */
+.testimonial-text {
+  color: #ff6400;
+}
+
+.testimonials {
+  padding-bottom: 40px;
+}
+
+/* CLIENTS */
+.clients {
+  padding-bottom: 40px;
+  background-color: #efeffc;
+}
+
+.client-img1, .client-img2, .client-img3, .client-img4, .client-img5 {
+  margin: 40px;
+}
+
+/* FOOTER */
+.footer {
+  margin-top: 40px;
+  padding: 100px 0 70px;
+  background-color: #141212;
+}
