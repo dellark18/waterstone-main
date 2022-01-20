@@ -63,6 +63,11 @@
   padding: 30px 30px 10px;
 }
 
+.service-image {
+  width: 600px;
+  margin-top: 45px;
+}
+
 /* FOOTER */
 .footer {
   margin-top: 40px;
