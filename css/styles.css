@@ -1,6 +1,7 @@
 .btn-rounded {
   background-color: #15c4ff;
   color: #fff;
+  border: 0px solid #fff;
 }
 
 .btn-rounded:hover {
